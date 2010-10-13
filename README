@@ -1,0 +1,14 @@
+Css Box Model
+=============
+
+Implement the css box model with wxhaskell.
+
+You will need: wxhaskell
+
+To compile:
+    make all
+
+To Run:
+    ./box
+
+
